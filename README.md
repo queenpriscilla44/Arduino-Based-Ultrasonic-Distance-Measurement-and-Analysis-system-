@@ -69,4 +69,8 @@ The full Arduino code is available in the repository under `ultrasonic_distance.
 
 
 ## 📷 Media
+### Circuit Diagram
+![Circuit Diagram](media/components.png)
 
+### Connections
+![Connections](media/connection.png)
