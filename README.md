@@ -65,12 +65,12 @@ Applications include:
 ---
 
 ## 💻 Code
-The full Arduino code is available in the repository under ultrasonic_distance.ino.ino.
+The full Arduino code is available in the repository under "ultrasonic_distance.ino".
 
 
 ## 📷 Media
 ### Circuit Diagram
-![Circuit Diagram](media/components.png)
+[Circuit Diagram](media/components.png)
 
 ### Connections
-![Connections](media/connection.png)
+[Connections](media/connection.png)
