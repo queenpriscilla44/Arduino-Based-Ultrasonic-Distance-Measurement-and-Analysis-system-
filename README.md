@@ -65,7 +65,7 @@ Applications include:
 ---
 
 ## 💻 Code
-The full Arduino code is available in the repository under `ultrasonic_distance.ino`.
+The full Arduino code is available in the repository under ultrasonic_distance.ino.ino.
 
 
 ## 📷 Media
